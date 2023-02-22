@@ -1,9 +1,9 @@
 [package]
-name = "collections"
+name = "simple-collections"
 description = "Collection of simple collections"
-homepage = "https://github.com/adam-gaia/collections"
-documentation = "https://github.com/adam-gaia/collections"
-repository = "https://github.com/adam-gaia/collections"
+homepage = "https://github.com/adam-gaia/simple-collections"
+documentation = "https://github.com/adam-gaia/simple-collections"
+repository = "https://github.com/adam-gaia/simple-collections"
 readme = "README.md"
 license = "MIT"
 version = "0.1.0"
