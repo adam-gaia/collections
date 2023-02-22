@@ -1,5 +1,10 @@
 [package]
 name = "collections"
+description = "Collection of simple collections"
+homepage = "https://github.com/adam-gaia/collections"
+documentation = "https://github.com/adam-gaia/collections"
+repository = "https://github.com/adam-gaia/collections"
+readme = "README.md"
 version = "0.1.0"
 edition = "2021"
 
